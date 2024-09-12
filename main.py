@@ -1,3 +1,5 @@
+# Code modified by Tobi
+
 import pygame as pg
 from source.main import main
 
