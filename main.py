@@ -1,3 +1,5 @@
+# Austin Nadeau
+
 import pygame as pg
 from source.main import main
 
